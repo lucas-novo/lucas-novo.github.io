@@ -1,20 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Teste</title>
-    <link>https://lucas-novo.github.io/posts/</link>
-    <description>Recent content in Posts on Teste</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 01:27:03 -0300</lastBuildDate><atom:link href="https://lucas-novo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Teste</title>
-      <link>https://lucas-novo.github.io/posts/teste/</link>
-      <pubDate>Fri, 05 May 2023 01:27:03 -0300</pubDate>
-      
-      <guid>https://lucas-novo.github.io/posts/teste/</guid>
-      <description></description>
-    </item>
+	<title>Teste</title>
+	<link>https://lucas-novo.github.io/posts/</link>
+	<description>Recent content in Posts on Teste</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Fri, 05 May 2023 01:27:03 -0300</lastBuildDate>
     
-  </channel>
+        <atom:link href="https://lucas-novo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Sobre</title>
+		<link>https://lucas-novo.github.io/sobre/</link>
+		<pubDate>Fri, 05 May 2023 20:17:48 -0300</pubDate>
+		
+		<guid>https://lucas-novo.github.io/sobre/</guid>
+		<description>&lt;p&gt;Sou..&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Esse é um post</title>
+		<link>https://lucas-novo.github.io/posts/teste/</link>
+		<pubDate>Fri, 05 May 2023 01:27:03 -0300</pubDate>
+		
+		<guid>https://lucas-novo.github.io/posts/teste/</guid>
+		<description>&lt;p&gt;com certeza (\varphi \to \mathbb{R} )&lt;/p&gt;
+&lt;p&gt;$$
+\varphi: \mathbb{R} \to \mathbb{R}
+$$&lt;/p&gt;
+&lt;p&gt;[\mathbb{C} \to \mathbb{C}]&lt;/p&gt;
+&lt;p&gt;podemos escrever $ \lim_{n \to \infty}  $&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
 </rss>
